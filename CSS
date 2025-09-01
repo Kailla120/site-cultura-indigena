@@ -1,0 +1,63 @@
+/* Aumentar a legibilidade */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Acessibilidade de cores */
+header, footer {
+    background-color: #2a3d4f;
+    color: white;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Destaque para links com foco */
+a:focus {
+    outline: 2px solid yellow;
+}
+
+/* Seções com contraste */
+h1, h2, h3 {
+    color: #1a4d7c;
+}
+
+/* Tamanho das fontes */
+p {
+    font-size: 18px;
+}
+
+/* Legibilidade para deficientes visuais */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Ajustes para dispositivos móveis */
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+}
