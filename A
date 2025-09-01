@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Conheça a rica cultura indígena brasileira, suas tradições e histórias.">
+    <title>Cultura Indígena</title>
+    <link rel="stylesheet" href="estilos/style.css">
+</head>
+<body>
+    <header>
+        <h1>Cultura Indígena Brasileira</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li><a href="cultura.html">Cultura</a></li>
+                <li><a href="historia.html">História</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Bem-vindo à Cultura Indígena!</h2>
+            <p>A cultura indígena brasileira é riquíssima, com diversas tribos e tradições que influenciam até os dias de hoje. Vamos explorar mais sobre as histórias, costumes e arte dos povos indígenas.</p>
+        </section>
+
+        <section>
+            <h3>História</h3>
+            <p>Os povos indígenas têm uma história que remonta milhares de anos. São povos que vivem de forma harmônica com a natureza e possuem uma visão de mundo única, transmitida por gerações.</p>
+        </section>
+
+        <section>
+            <h3>Cultura</h3>
+            <p>A cultura indígena engloba elementos como artesanato, música, dança e mitologia. Conheça mais sobre os rituais e práticas que são fundamentais para a identidade desses povos.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Cultura Indígena. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="scripts/script.js"></script>
+</body>
+</html>
