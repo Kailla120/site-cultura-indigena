@@ -1,0 +1,12 @@
+/site-cultura-indigena
+|-- index.html
+|-- sobre.html
+|-- cultura.html
+|-- historia.html
+|-- estilos/
+|   |-- style.css
+|-- imagens/
+|   |-- logo.png
+|   |-- tribo1.jpg
+|-- scripts/
+|   |-- script.js
